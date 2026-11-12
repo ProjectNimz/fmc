@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Black Shadow",
+    "location": "Washington, DC, USA",
+    "image": "assets/thumb-3.jpg",
+    "fullImage": "assets/photo-3.jpg"
+  },
+  {
+    "name": "DJ Joef",
+    "location": "Jacksonville, FL, USA",
+    "image": "assets/thumb-4.jpg",
+    "fullImage": "assets/photo-4.jpg"
+  },
+  {
+    "name": "Kagawad Elyjazz",
+    "location": "CamSur, Philippines",
+    "image": "assets/thumb-5.jpg",
+    "fullImage": "assets/photo-5.jpg"
+  },
+  {
+    "name": "DJ Macky",
+    "location": "Davao, Philippines",
+    "image": "assets/thumb-6.jpg",
+    "fullImage": "assets/photo-6.jpg"
+  },
+  {
+    "name": "DJ Ice Castle",
+    "location": "Canada",
+    "image": "assets/thumb-7.jpg",
+    "fullImage": "assets/photo-7.jpg"
+  },
+  {
+    "name": "DJ MC Rider",
+    "location": "Cavite, Philippines",
+    "image": "assets/thumb-8.jpg",
+    "fullImage": "assets/photo-8.jpg"
+  },
+  {
+    "name": "DJ Kerubin",
+    "location": "Taiwan",
+    "image": "assets/thumb-9.jpg",
+    "fullImage": "assets/photo-9.jpg"
+  },
+  {
+    "name": "DJ Queenie V",
+    "location": "Singapore",
+    "image": "assets/thumb-10.jpg",
+    "fullImage": "assets/photo-10.jpg"
+  },
+  {
+    "name": "DJ Baby Qui",
+    "location": "Norway",
+    "image": "assets/thumb-11.jpg",
+    "fullImage": "assets/photo-11.jpg"
+  },
+  {
+    "name": "Bobby V",
+    "location": "TPPFM · Cambodia",
+    "image": "assets/thumb-12.jpg",
+    "fullImage": "assets/photo-12.jpg"
+  },
+  {
+    "name": "DJ Mosh",
+    "location": "Los Angeles, CA, USA",
+    "image": "assets/thumb-13.jpg",
+    "fullImage": "assets/photo-13.jpg"
+  },
+  {
+    "name": "DJ Kaycee",
+    "location": "CamSur, Philippines",
+    "image": "assets/thumb-14.jpg",
+    "fullImage": "assets/photo-14.jpg"
+  },
+  {
+    "name": "DJ Doc Rulz",
+    "location": "Davao, Philippines",
+    "image": "assets/thumb-15.jpg",
+    "fullImage": "assets/photo-15.jpg"
+  },
+  {
+    "name": "DJ Princess Irene",
+    "location": "Kuwait",
+    "image": "assets/thumb-16.jpg",
+    "fullImage": "assets/photo-16.jpg"
+  },
+  {
+    "name": "DJ Getty Andrea",
+    "location": "Tagbilaran City, Philippines",
+    "image": "assets/thumb-18.jpg",
+    "fullImage": "assets/photo-18.jpg"
+  },
+  {
+    "name": "DJ Sleepy",
+    "location": "Arizona, USA",
+    "image": "assets/photo-17.webp"
+  }
+]

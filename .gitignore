@@ -1,0 +1,11 @@
+dist/
+node_modules/
+.netlify/
+.env
+.env.*
+!.env.example
+source-fmc.html
+FMC-PROJECT-HANDOFF.md
+assets/photo-*.png
+!assets/photo-0.png
+manifest.webmanifest
